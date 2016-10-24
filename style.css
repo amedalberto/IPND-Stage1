@@ -13,6 +13,7 @@ h2 {
 
 body {
 	width: 600px;
+	margin: 0 auto;
 
 }
 
@@ -22,17 +23,7 @@ img {
 
 }
 
-.lesson1 {
-	width: 100%;
-	background-color: #696969;
-}
-
-.lesson2 {
-	width: 100%;
-	background-color: #696969;
-}
-
-.lesson3 {
+.lesson {
 	width: 100%;
 	background-color: #696969;
 }
