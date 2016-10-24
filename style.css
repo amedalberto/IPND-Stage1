@@ -1,0 +1,42 @@
+
+
+* {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		-ms-box-sizing:	border-box;
+		box-sizing: border-box;
+}
+
+h2 {
+	background-color: #33bebe;
+}
+
+body {
+	width: 600px;
+
+}
+
+img {
+	width: 450px;
+	height: auto;
+
+}
+
+.lesson1 {
+	width: 100%;
+	background-color: #696969;
+}
+
+.lesson2 {
+	width: 100%;
+	background-color: #696969;
+}
+
+.lesson3 {
+	width: 100%;
+	background-color: #696969;
+}
+
+.italic {
+	font-style: italic;
+}
